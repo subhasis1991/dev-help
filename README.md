@@ -1,3 +1,6 @@
-# dev-help
+dev-help
+=======
 
-git config --global credential.helper wincred
+Caching your GitHub password in Git  
+
+    git config --global credential.helper wincred
